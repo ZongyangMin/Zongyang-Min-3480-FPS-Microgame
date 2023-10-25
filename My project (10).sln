@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps.UI", "fps.UI.csproj", "{40353eb4-a925-1d5a-7181-e17645d93872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps.Game", "fps.Game.csproj", "{1f277bab-f998-ccde-c29e-a4ed0024d93a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps.AI", "fps.AI.csproj", "{5fe5d404-074c-c7a7-90aa-d79eeffe53d7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d784024a-92be-5ed0-fbca-01771e9dd062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps.Gameplay", "fps.Gameplay.csproj", "{18c9aab8-e730-7fc3-ab70-a74fce1e91b8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{3a5b822f-134e-5f85-e61f-f915ee83299a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigRookGames", "BigRookGames.csproj", "{8c64285b-27b9-235a-a428-6438567642a6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.FPS.Tutorials", "Unity.FPS.Tutorials.csproj", "{04e1573c-ddb2-fe2e-5f84-004304e73b04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Microgame.Tutorials", "Unity.Microgame.Tutorials.csproj", "{707f3d4d-0153-be26-d3fc-8284c91726b2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps.Editor", "fps.Editor.csproj", "{74c30e2d-00f9-3d5c-9bfe-3ae42bcd17d6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponentsEditor", "NavMeshComponentsEditor.csproj", "{86139313-e13b-dac7-6f8d-7d9745859034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{c6b6edd5-7567-c910-dfc6-86207bac681d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40353eb4-a925-1d5a-7181-e17645d93872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40353eb4-a925-1d5a-7181-e17645d93872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1f277bab-f998-ccde-c29e-a4ed0024d93a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1f277bab-f998-ccde-c29e-a4ed0024d93a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5fe5d404-074c-c7a7-90aa-d79eeffe53d7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5fe5d404-074c-c7a7-90aa-d79eeffe53d7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d784024a-92be-5ed0-fbca-01771e9dd062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d784024a-92be-5ed0-fbca-01771e9dd062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18c9aab8-e730-7fc3-ab70-a74fce1e91b8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18c9aab8-e730-7fc3-ab70-a74fce1e91b8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3a5b822f-134e-5f85-e61f-f915ee83299a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3a5b822f-134e-5f85-e61f-f915ee83299a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8c64285b-27b9-235a-a428-6438567642a6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8c64285b-27b9-235a-a428-6438567642a6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04e1573c-ddb2-fe2e-5f84-004304e73b04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04e1573c-ddb2-fe2e-5f84-004304e73b04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707f3d4d-0153-be26-d3fc-8284c91726b2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707f3d4d-0153-be26-d3fc-8284c91726b2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74c30e2d-00f9-3d5c-9bfe-3ae42bcd17d6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74c30e2d-00f9-3d5c-9bfe-3ae42bcd17d6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86139313-e13b-dac7-6f8d-7d9745859034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86139313-e13b-dac7-6f8d-7d9745859034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c6b6edd5-7567-c910-dfc6-86207bac681d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c6b6edd5-7567-c910-dfc6-86207bac681d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
